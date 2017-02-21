@@ -1,0 +1,31 @@
+{
+  "name": "noteline",
+  "version": "1.0.0",
+  "description": "A note-taking CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanrae/notetakingcli.git"
+  },
+  "keywords": [
+    "NoteLine",
+    "Notepad",
+    "Note",
+    "Taker",
+    "Note++",
+    "Command",
+    "Line"
+  ],
+  "author": "Fawaz Bello aka Lanrae <info@lanraeictsolutions.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanrae/notetakingcli/issues"
+  },
+  "homepage": "https://github.com/lanrae/notetakingcli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
